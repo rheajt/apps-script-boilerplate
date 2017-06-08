@@ -1,8 +1,4 @@
 function onOpen() {
-
-  // REMOVE THIS PROMPT
-  SpreadsheetApp.getUi().alert('Open the script editor to get started!');
-  //
   
   SpreadsheetApp.getUi()
     .createAddonMenu()
