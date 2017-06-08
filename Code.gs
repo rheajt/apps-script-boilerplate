@@ -1,8 +1,4 @@
 function onOpen() {
-
-  // REMOVE THIS PROMPT
-  FormApp.getUi().alert('Open the script editor to get started!');
-  //
   
   FormApp.getUi()
     .createAddonMenu()
